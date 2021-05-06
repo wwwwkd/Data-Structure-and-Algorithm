@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9a27e7a6-e98a-432a-8c02-3cc18a3528f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/tree.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +73,19 @@
       <option name="presentableId" value="Default" />
       <updated>1620183304367</updated>
     </task>
+    <task id="LOCAL-00001" summary="111">
+      <created>1620270837268</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620270837269</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Notifications" timestamp="1620270879883">
