@@ -95,4 +95,3 @@ tree.addNode(6)
 tree.addNode(7)
 tree.travel()
 
-111
