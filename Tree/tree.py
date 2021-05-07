@@ -52,7 +52,7 @@ class Tree():
         self.forward(root.left)
         self.forward(root.right)
 
-    # 中序： 左右根
+    # 中序： 左根右
     def middle(self, root):
         # 特殊情况： 无根节点
         if root == None:
@@ -61,6 +61,7 @@ class Tree():
         print(root.item)
         self.middle(root.right)
 
+    # 后序： 左右根
     def back(self, root):
         # 特殊情况： 无根节点zq
         if root == None:

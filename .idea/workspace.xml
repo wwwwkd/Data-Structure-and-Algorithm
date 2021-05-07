@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a27e7a6-e98a-432a-8c02-3cc18a3528f7" name="Default Changelist" comment="" />
+    <list default="true" id="9a27e7a6-e98a-432a-8c02-3cc18a3528f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Tree/leetcode94.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/tree.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620285617614</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="删除111">
+      <created>1620286334671</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1620286334671</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,7 +112,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
-    <option name="LAST_COMMIT_MESSAGE" value="111" />
+    <MESSAGE value="删除111" />
+    <option name="LAST_COMMIT_MESSAGE" value="删除111" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2472" y="178" key="#Notifications" timestamp="1620270879883">
@@ -112,30 +124,30 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2334" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620265500534" />
-    <state x="2518" y="109" width="953" height="822" key="CommitChangelistDialog2" timestamp="1620285617028">
+    <state x="2518" y="109" width="953" height="822" key="CommitChangelistDialog2" timestamp="1620286334052">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2518" y="109" width="953" height="822" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620285617028" />
+    <state x="2518" y="109" width="953" height="822" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620286334052" />
     <state x="2373" y="172" width="1228" height="687" key="DiffContextDialog" timestamp="1620286294596">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2373" y="172" width="1228" height="687" key="DiffContextDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620286294596" />
-    <state width="1899" height="393" key="GridCell.Tab.0.bottom" timestamp="1620285621099">
+    <state width="1899" height="456" key="GridCell.Tab.0.bottom" timestamp="1620287271885">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="393" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620285621099" />
-    <state width="1899" height="393" key="GridCell.Tab.0.center" timestamp="1620285621099">
+    <state width="1899" height="456" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620287271885" />
+    <state width="1899" height="456" key="GridCell.Tab.0.center" timestamp="1620287271885">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="393" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620285621099" />
-    <state width="1899" height="393" key="GridCell.Tab.0.left" timestamp="1620285621099">
+    <state width="1899" height="456" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620287271885" />
+    <state width="1899" height="456" key="GridCell.Tab.0.left" timestamp="1620287271885">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="393" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620285621099" />
-    <state width="1899" height="393" key="GridCell.Tab.0.right" timestamp="1620285621099">
+    <state width="1899" height="456" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620287271885" />
+    <state width="1899" height="456" key="GridCell.Tab.0.right" timestamp="1620287271885">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="393" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620285621099" />
+    <state width="1899" height="456" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620287271885" />
     <state width="1899" height="78" key="GridCell.Tab.1.bottom" timestamp="1620270563417">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -156,10 +168,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2381" y="47" width="1297" height="831" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620270559305" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1620286282402">
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1620286347611">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620286282402" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620286347611" />
     <state x="2672" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620270796919">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -170,7 +182,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Tree/tree.py</url>
-          <line>86</line>
+          <line>87</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
