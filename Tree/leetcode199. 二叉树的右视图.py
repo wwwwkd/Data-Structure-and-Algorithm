@@ -81,3 +81,19 @@ class Solution2:
                     res.append(r.val)
             queue = tmp
         return res
+
+# DFS
+# 深度优先搜索没想到
+class Solution:
+    def rightSideView(self, root: TreeNode) -> List[int]:
+        res = []
+        def dfs(root, depth):
+            if root == None:
+                return
+            if len(res) <= depth:
+                res.append(0)
+            res[depth] = root.val
+            dfs(root.left, depth+1)
+            dfs(root.right, depth+1)
+        dfs(root, 0 )
+        return res
