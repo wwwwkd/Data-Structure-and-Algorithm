@@ -105,3 +105,22 @@ class Solution4:
         self.res.append(root.val)
         self.dfs(root.right)
 
+# 迭代法
+class Solution5:
+    '''
+        正确答案
+        self.res = [] 为全局变量
+        使用两个函数，使列表更新
+    '''
+
+    def inorderTraversal(self, root: TreeNode) -> List[int]:
+        stack = []
+        res = []
+        while stack or root:
+            while root:
+                stack.append(root)
+                root = root.left
+            root = stack.pop()
+            res.append(root.val)
+            root = root.right
+        return res

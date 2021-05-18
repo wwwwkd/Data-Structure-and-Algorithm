@@ -52,6 +52,47 @@ class Tree():
         self.forward(root.left)
         self.forward(root.right)
 
+    def forward_DFS(self, root):
+        # 特殊情况： 如果树为空
+        res = []
+        def dfs(root):
+            if root == None:
+                return
+            res.append(root.val)
+            if root.left:
+                dfs(root.left)
+            if root.right:
+                dfs(root.right)
+        dfs(root)
+        return res
+
+    def forward_BFS(self, root):
+        if root == None:
+            return []
+        res = []
+        stack = [root]
+        # 栈的特性，先进后出，那么先进右子树，然后左子树，这样出就是左子树先出，达到前序遍历
+        while stack:
+            r = stack.pop()
+            res.append(r.val)
+            if r.right:
+                stack.append(r.right)
+            if r.left:
+                stack.append(r.left)
+        return res
+
+    def forward_Ineration(self, root):
+        stack = []
+        res = []
+        while stack or root:
+            while root:
+                res.append(root.val)
+                stack.append(root)
+                root = root.left
+            root = stack.pop()
+            root = root.right
+        return res
+
     # 中序： 左根右
     def middle(self, root):
         # 特殊情况： 无根节点
@@ -60,6 +101,33 @@ class Tree():
         self.middle(root.left)
         print(root.item)
         self.middle(root.right)
+
+    def middle_Ineration(self, root):
+        stack = []
+        res = []
+        while stack or root:
+        # 1.stack = None root != None 根节点
+        # 2.stack != None root = None遍历结束
+            while root:
+                stack.append(root)
+                root = root.left
+            root = stack.pop()
+            res.append(root.val)
+            root = root.right
+        return res
+
+    def middle_DFS(self, root):
+        res = []
+        def dfs(root):
+            if root == None:
+                return
+            if root.left:
+                dfs(root.left)
+            res.append(root.val)
+            if root.right:
+                dfs(root.right)
+        dfs(root)
+        return res
 
     # 后序： 左右根
     def back(self, root):
