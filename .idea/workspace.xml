@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a27e7a6-e98a-432a-8c02-3cc18a3528f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tree/leetcode145.二叉树的后序遍历.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/0.tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/0.tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tree/leetcode94. 二叉树的中序遍历.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/leetcode94. 二叉树的中序遍历.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
