@@ -48,7 +48,7 @@ class Solution:
             pre1.next = pre
         else: # left = 1
             head = pre
-        
+
         cur1.next = cur
         return  head
 

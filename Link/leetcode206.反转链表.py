@@ -62,4 +62,16 @@ class Solution2:
         head.next = None
         return head_node
 
+class Solution3:
+    '''
+    一个指针
+    '''
 
+    def reverseList(self, head: ListNode) -> ListNode:
+        pre = None
+        while head:
+            node = ListNode(head.val)
+            node.next = pre
+            pre = node
+            head = head.next
+        return pre
