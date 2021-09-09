@@ -17,7 +17,6 @@ class Link():
         self._head = node
         # 这一部分一直在改变指向，如果一个引用或者变量表示某一内存空间地址
         # 那么这个引用或变量就指向了内存空间
-
     def travel(self):
         # _head在列表创建之后一定是不可变的
         cur = self._head
