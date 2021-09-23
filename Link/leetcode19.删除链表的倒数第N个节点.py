@@ -61,4 +61,4 @@ class Solution2:
         while cur:
             pre = pre.next
             cur = cur.next
-        pre.next
+        return pre.next

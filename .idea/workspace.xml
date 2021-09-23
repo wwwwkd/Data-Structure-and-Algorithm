@@ -2,11 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a27e7a6-e98a-432a-8c02-3cc18a3528f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DP/1.最长公共子序列.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/sequentialsearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/HTTP_sever.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/mutil_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Socket/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort_Algorithm/bubbleSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort_Algorithm/chooseSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort_Algorithm/shell_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/break_continue_pass/break_continue_pass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/calss_static_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/mutable_hash/mutable_hash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/time/1.测试时间.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/字典/1.遍历字典的方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/装饰器/01_function_closure_infunc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/装饰器/02_function_closure_inclosure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/装饰器/03_function_closure_inclosure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/装饰器/04_decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/装饰器/05_log_decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/装饰器/06_decorator_with_param_and_ret.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/装饰器/07_decorator_fix_bug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/装饰器/08_general_wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/装饰器/09_both_log_and_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/装饰器/10_two_decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/装饰器/11_two_decorator_answer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/装饰器/12.homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/迭代器/斐波那契数列-迭代器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/迭代器/迭代器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/递归/汉诺塔.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Link/0.link.py" beforeDir="false" afterPath="$PROJECT_DIR$/Link/0.link.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue/0.queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/222Queue/0.queue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue/1.deque.py" beforeDir="false" afterPath="$PROJECT_DIR$/222Queue/1.deque.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/binarysearch.py" beforeDir="false" afterPath="$PROJECT_DIR$/BinarySearch/binarysearch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Link/leetcode19.删除链表的倒数第N个节点.py" beforeDir="false" afterPath="$PROJECT_DIR$/Link/leetcode19.删除链表的倒数第N个节点.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/decorator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/zip.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/zip.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +45,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -34,13 +64,24 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/python/装饰器" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.0.link">
-    <configuration name="0.link" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenono\Desktop\Data Structure and Algorithm\BinarySearch" />
+      <recent name="C:\Users\Lenono\Desktop\Data Structure and Algorithm\python\装饰器" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenono\Desktop\Data Structure and Algorithm\python\装饰器" />
+      <recent name="C:\Users\Lenono\Desktop\Data Structure and Algorithm\Socket\111" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.2.函数逻辑与辅助函数分离-可读性差">
+    <configuration name="汉诺塔" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data Structure and Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Link" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/递归" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Link/0.link.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/递归/汉诺塔.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -61,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.最长公共子序列" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2.函数逻辑与辅助函数分离-可读性差" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data Structure and Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/装饰器" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DP/1.最长公共子序列.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/装饰器/2.函数逻辑与辅助函数分离-可读性差.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="binarysearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="break_continue_pass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data Structure and Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinarySearch" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/break_continue_pass" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinarySearch/binarysearch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/break_continue_pass/break_continue_pass.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decorator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bubbleSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data Structure and Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sort_Algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/decorator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sort_Algorithm/bubbleSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="try" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="chooseSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Data Structure and Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +173,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sort_Algorithm" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/try.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sort_Algorithm/chooseSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0.link" />
-        <item itemvalue="Python.1.最长公共子序列" />
-        <item itemvalue="Python.binarysearch" />
-        <item itemvalue="Python.try" />
-        <item itemvalue="Python.decorator" />
+        <item itemvalue="Python.2.函数逻辑与辅助函数分离-可读性差" />
+        <item itemvalue="Python.break_continue_pass" />
+        <item itemvalue="Python.汉诺塔" />
+        <item itemvalue="Python.chooseSort" />
+        <item itemvalue="Python.bubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -217,54 +258,79 @@
     <option name="LAST_COMMIT_MESSAGE" value="leetcode102，使用BFS和DFS" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="672" height="438" key="DebuggerActiveHint" timestamp="1631168600289">
+    <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1631344262743">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2610" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1631344262743" />
+    <state x="477" y="37" key="#斐波那契数列-迭代器" timestamp="1632206346489">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="672" height="438" key="DebuggerActiveHint/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1631168600289" />
+    <state x="477" y="37" key="#斐波那契数列-迭代器/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1632206346489" />
+    <state width="673" height="438" key="DebuggerActiveHint" timestamp="1631951617111">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="673" height="438" key="DebuggerActiveHint/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1631951617111" />
+    <state width="1456" height="553" key="DebuggerActiveHint/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1631345874523" />
     <state x="2606" y="211" key="FileChooserDialogImpl" timestamp="1629470714916">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2606" y="211" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1629470714916" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1631168518792">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom" timestamp="1632378079522">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1631168518792" />
-    <state width="1493" height="270" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1629478773645" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1631168518792">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="259" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1632214059068" />
+    <state width="1877" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1632378079522" />
+    <state width="1342" height="257" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1632066023518" />
+    <state width="1877" height="2" key="GridCell.Tab.0.center" timestamp="1632378079522">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1631168518792" />
-    <state width="1493" height="270" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1629478773645" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1631168518792">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="259" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1632214059068" />
+    <state width="1877" height="2" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1632378079522" />
+    <state width="1342" height="257" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1632066023517" />
+    <state width="1877" height="2" key="GridCell.Tab.0.left" timestamp="1632378079522">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1631168518792" />
-    <state width="1493" height="270" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1629478773645" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1631168518792">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="259" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1632214059068" />
+    <state width="1877" height="2" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1632378079522" />
+    <state width="1342" height="257" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1632066023516" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right" timestamp="1632378079522">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1631168518792" />
-    <state width="1493" height="270" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1629478773645" />
-    <state width="1493" height="213" key="GridCell.Tab.1.bottom" timestamp="1631168519636">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="259" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1632214059068" />
+    <state width="1877" height="2" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1632378079522" />
+    <state width="1342" height="257" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1632066023518" />
+    <state width="1877" height="259" key="GridCell.Tab.1.bottom" timestamp="1632359237696">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1631168519636" />
-    <state width="1493" height="270" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1629478773645" />
-    <state width="1493" height="213" key="GridCell.Tab.1.center" timestamp="1631168519636">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="259" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1632214060115" />
+    <state width="1877" height="259" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1632359237696" />
+    <state width="1342" height="257" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1632066023518" />
+    <state width="1877" height="259" key="GridCell.Tab.1.center" timestamp="1632359237696">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1631168519636" />
-    <state width="1493" height="270" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1629478773645" />
-    <state width="1493" height="213" key="GridCell.Tab.1.left" timestamp="1631168519636">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="259" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1632214060115" />
+    <state width="1877" height="259" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1632359237696" />
+    <state width="1342" height="257" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1632066023518" />
+    <state width="1877" height="259" key="GridCell.Tab.1.left" timestamp="1632359237696">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1631168519636" />
-    <state width="1493" height="270" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1629478773645" />
-    <state width="1493" height="213" key="GridCell.Tab.1.right" timestamp="1631168519636">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1493" height="259" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1632214060115" />
+    <state width="1877" height="259" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1632359237696" />
+    <state width="1342" height="257" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1632066023518" />
+    <state width="1877" height="259" key="GridCell.Tab.1.right" timestamp="1632359237696">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1631168519636" />
-    <state width="1493" height="270" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1629478773645" />
+    <state width="1493" height="259" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1632214060115" />
+    <state width="1877" height="259" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1632359237696" />
+    <state width="1342" height="257" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1632066023518" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1631345840950">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1631345840950" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1632291521933">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1632291521933" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -298,6 +364,61 @@
           <url>file://$PROJECT_DIR$/Link/0.link.py</url>
           <line>87</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/zip.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/迭代器/迭代器.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/迭代器/迭代器.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/迭代器/迭代器.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/迭代器/迭代器.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/迭代器/迭代器.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/迭代器/斐波那契数列-迭代器.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/迭代器/斐波那契数列-迭代器.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/迭代器/斐波那契数列-迭代器.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/递归/汉诺塔.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/递归/汉诺塔.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
